@@ -49,6 +49,8 @@ console.log("The cat is a " + catBreed);
  */
 
 tortoise.age = tortoise.age + 1
+tortoise.age += 1
+tortoise.age++
 console.log(tortoise.age)
 
 
