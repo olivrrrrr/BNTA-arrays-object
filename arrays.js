@@ -50,7 +50,7 @@ console.log("The third station is " + thirdStation);
  */
 
 
- stations[1] = "Berwick-upon-Tweed"
+ stations[stations.indexOf("North Berwick")] = "Berwick-upon-Tweed"
 
  console.log(stations);
 
